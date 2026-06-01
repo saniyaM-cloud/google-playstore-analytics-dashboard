@@ -119,6 +119,15 @@ This chart is displayed on the dashboard only between 6 PM and 9 PM IST.
 
 
 - Task 5 chart
+### Task 5: App Size vs Rating by Installs
+
+This bubble chart analyzes the relationship between app size and average rating. The x-axis represents app size in MB, the y-axis represents average rating, and the bubble size represents the number of installs.
+
+Filters applied include rating, selected app categories, review count, app name restrictions, sentiment subjectivity, and install count. The Game category is highlighted in pink, and selected category names are translated into Hindi, Tamil, and German.
+
+This chart is displayed on the dashboard only between 5 PM and 7 PM IST.
+
+![Task 5 Bubble Chart](https://github.com/user-attachments/assets/9c6f1d15-67ab-4909-b13a-f3ba6f59a022)
 
 
 ### Task 6: Cumulative Installs Over Time by Category
