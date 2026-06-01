@@ -75,8 +75,8 @@ This dashboard provides an overall view of Google Play Store app analytics using
 
 The dashboard helps summarize key insights from the Google Play Store dataset in one place and supports interactive exploration of app performance metrics.
 
-![Main Dashboard](<img width="1731" height="563" alt="image" src="https://github.com/user-attachments/assets/a207cdbc-a3db-4b6d-8143-e961ec584208" />
-)
+![Main Dashboard](https://github.com/user-attachments/assets/a207cdbc-a3db-4b6d-8143-e961ec584208)
+
 
 ### Task 1: Average Rating and Total Reviews for Top Installed Categories
 
