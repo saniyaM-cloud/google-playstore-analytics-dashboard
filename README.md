@@ -78,8 +78,7 @@ Filters applied include average rating, app size, and January last update month.
 
 This chart is displayed on the dashboard only between 3 PM and 5 PM IST.
 
-![Task 1 Grouped Bar Chart](https://github.com/user-attachments/assets/b941768c-f751-4bf8-978c-ee357cd4267c>
-)
+![Task 1 Grouped Bar Chart](https://github.com/user-attachments/assets/b941768c-f751-4bf8-978c-ee357cd4267c)
 - Task 2 chart
 ### Task 3: Average Installs and Revenue for Free vs Paid Apps
 
