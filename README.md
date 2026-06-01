@@ -87,7 +87,17 @@ Filters applied include average rating, app size, and January last update month.
 This chart is displayed on the dashboard only between 3 PM and 5 PM IST.
 
 ![Task 1 Grouped Bar Chart](https://github.com/user-attachments/assets/b941768c-f751-4bf8-978c-ee357cd4267c)
-- Task 2 chart
+
+### Task 2: Global Installs by Top App Categories
+
+This choropleth map visualizes global installs for the top 5 app categories after excluding categories that start with A, C, G, or S. Categories with installs greater than 1 million are visually highlighted on the map.
+
+This chart is displayed on the dashboard only between 6 PM and 8 PM IST.
+
+![Task 2 Choropleth Map](<img width="578" height="455" alt="task2" src="https://github.com/user-attachments/assets/5551fdc6-75b0-4eb3-8dd2-b8b76d39263d" />
+)
+
+
 ### Task 3: Average Installs and Revenue for Free vs Paid Apps
 
 This dual-axis chart compares average installs and total revenue across the top filtered app categories. The bars represent average installs, while the line represents revenue.
@@ -98,7 +108,17 @@ Due to the revenue filter, the final filtered dataset contains paid apps only, s
 
 ![Task 3 Dual Axis Chart](https://github.com/user-attachments/assets/46f6dfc1-9e3c-46c0-a851-709689e9ac49)
 
-- Task 4 chart
+### Task 4: Monthly Install Trend by Category
+
+This time series line chart shows the trend of total installs over time, segmented by app category. It highlights months where installs increased by more than 20% month-over-month.
+
+Filters applied include category rules, review count, and app name restrictions. Selected category names are translated into Hindi, Tamil, and German where applicable.
+
+This chart is displayed on the dashboard only between 6 PM and 9 PM IST.
+
+![Task 4 Time Series Chart](<img width="575" height="457" alt="task4" src="https://github.com/user-attachments/assets/56bc66d6-a39a-4c2c-9bbc-2d11b236c36d" />)
+
+
 - Task 5 chart
 - Task 6 chart
 
