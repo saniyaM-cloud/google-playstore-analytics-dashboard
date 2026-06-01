@@ -69,7 +69,15 @@ The dataset includes app details such as category, rating, reviews, installs, si
 
 ## Screenshots
 Add screenshots of:
-- Main dashboard
+### Main Dashboard: Google Play Store Reviews Analytics
+
+This dashboard provides an overall view of Google Play Store app analytics using interactive Plotly visualizations. It includes category distribution, app type distribution, rating distribution, sentiment analysis, installs by category, yearly update trends, revenue by category, genre analysis, update impact on ratings, and paid vs free app rating comparison.
+
+The dashboard helps summarize key insights from the Google Play Store dataset in one place and supports interactive exploration of app performance metrics.
+
+![Main Dashboard](<img width="1731" height="563" alt="image" src="https://github.com/user-attachments/assets/a207cdbc-a3db-4b6d-8143-e961ec584208" />
+)
+
 ### Task 1: Average Rating and Total Reviews for Top Installed Categories
 
 This grouped bar chart compares the average rating and total review count for the top 10 app categories based on number of installs. The green bars represent average rating, while the red bars represent total reviews.
