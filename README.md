@@ -94,8 +94,7 @@ This choropleth map visualizes global installs for the top 5 app categories afte
 
 This chart is displayed on the dashboard only between 6 PM and 8 PM IST.
 
-![Task 2 Choropleth Map](<img width="578" height="455" alt="task2" src="https://github.com/user-attachments/assets/5551fdc6-75b0-4eb3-8dd2-b8b76d39263d" />
-)
+![Task 2 Choropleth Map](https://github.com/user-attachments/assets/5551fdc6-75b0-4eb3-8dd2-b8b76d39263d)
 
 
 ### Task 3: Average Installs and Revenue for Free vs Paid Apps
@@ -116,7 +115,7 @@ Filters applied include category rules, review count, and app name restrictions.
 
 This chart is displayed on the dashboard only between 6 PM and 9 PM IST.
 
-![Task 4 Time Series Chart](<img width="575" height="457" alt="task4" src="https://github.com/user-attachments/assets/56bc66d6-a39a-4c2c-9bbc-2d11b236c36d" />)
+![Task 4 Time Series Chart](https://github.com/user-attachments/assets/56bc66d6-a39a-4c2c-9bbc-2d11b236c36d)
 
 
 - Task 5 chart
