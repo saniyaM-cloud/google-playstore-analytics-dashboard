@@ -1,5 +1,5 @@
 # Google Play Store Analytics Dashboard
-
+Note: GitHub may not preview the notebook because it contains Plotly visualizations and generated dashboard output. Please download or open `Analysis2.ipynb` in Jupyter Notebook / VS Code to run the project.
 ## Project Overview
 This project is an extension of my training project and was developed as part of my internship. It uses the same Google Play Store dataset to build additional analytics dashboards and reports using Python, Pandas, Plotly, and Jupyter Notebook.
 
