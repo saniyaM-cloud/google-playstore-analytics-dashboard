@@ -119,7 +119,20 @@ This chart is displayed on the dashboard only between 6 PM and 9 PM IST.
 
 
 - Task 5 chart
-- Task 6 chart
+
+
+### Task 6: Cumulative Installs Over Time by Category
+
+This stacked area chart shows the cumulative number of installs over time for each app category. Each category is represented as a separate colored area band.
+
+Filters applied include rating, app name restrictions, category rules, review count, and app size range. Selected category names are translated into French, Spanish, and Japanese in the chart legend.
+
+Months where installs increased by more than 25% month-over-month are highlighted with increased color intensity.
+
+This chart is displayed on the dashboard only between 4 PM and 6 PM IST.
+
+![Task 6 Stacked Area Chart](https://github.com/user-attachments/assets/84591480-3224-4d25-8a0c-5e263954fd60)
+
 
 ## Project Outcome
 This project demonstrates practical data analysis, interactive visualization, dashboard development, and insight generation using a real-world app marketplace dataset.
